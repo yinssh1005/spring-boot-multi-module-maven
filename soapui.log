@@ -1,0 +1,5 @@
+2021-05-24 14:18:49,161 WARN  [DefaultSoapUICore] Missing folder [/Users/yinshuai/ext] for external libraries
+2021-05-24 14:18:49,847 INFO  [DefaultSoapUICore] initialized soapui-settings from [/Users/yinshuai/soapui-settings.xml]
+2021-05-24 14:18:51,711 INFO  [WorkspaceImpl] Loading workspace from [/Users/yinshuai/intellij-soapui-workspace.xml]
+2021-05-24 14:19:23,423 INFO  [WorkspaceImpl] Saved workspace to [/Users/yinshuai/intellij-soapui-workspace.xml]
+2021-05-24 14:19:23,428 INFO  [DefaultSoapUICore] Settings saved to [/Users/yinshuai/soapui-settings.xml]
